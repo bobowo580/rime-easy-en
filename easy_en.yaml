@@ -18,8 +18,8 @@ patch:
   easy_en:
     __include: easy_en.schema:/translator
     enable_completion: true
-    enable_sentence: true
-    initial_quality: -1
+    enable_sentence: false
+    initial_quality: 0
   recognizer/patterns/uppercase: ''
   speller/alphabet:
     __include: easy_en.schema:/speller/alphabet
