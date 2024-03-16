@@ -1,5 +1,5 @@
 # rime-easy-en
-Rime / Easy English 可混输的英文输入法
+Rime / Easy English 可多语言混输的输入法
 
 ## 安装
 
@@ -255,7 +255,9 @@ easy_en 对此项的默认设置为 -1，你可以尝试 0 到 0.5 左右的数�
 
 easy_en 原作者 [Patricivs](https://github.com/Patricivs)  
 
-[ECDICT](https://github.com/skywind3000/ECDICT)  
+English dictionary derived from [1/3 million most frequent English words](https://norvig.com/ngrams/count_1w.txt)
+
+Romanian dictionary derived from [FrequencyWords](https://github.com/hermitdave/FrequencyWords/tree/master/content/2018/ro) 
 
 [wordninja-rs](https://github.com/chengyuhui/wordninja-rs)  
 
